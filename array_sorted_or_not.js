@@ -11,4 +11,4 @@ function isSorted(arr)
     console.log(count === arr.length ? "sorted" : "not sorted");
 
 }
-isSorted([3,4,5,6]);
+isSorted([3,4,5,1,2]);
